@@ -1,0 +1,12 @@
+USE fietspuzzeltocht;
+DROP TABLE IF EXISTS userdata;
+CREATE TABLE userdata (
+	username VARCHAR(100) NOT NULL,
+	password VARCHAR(100) NOT NULL,
+	checkpoint INT NOT NULL DEFAULT 0,
+	route ENUM('kort', 'lang') NULL,
+	id INT NOT NULL PRIMARY	KEY AUTO_INCREMENT,
+	starttime VARCHAR(30) NULL,
+	endtime VARCHAR(30) NULL,
+	QUESTION INT NOT NULL DEFAULT 0
+);

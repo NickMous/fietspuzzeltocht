@@ -1,0 +1,154 @@
+:root {
+    --50: #E0F7FA;
+    --100: #B2EBF2;
+    --200: #80DEEA;
+    --300: #4DD0E1;
+    --400: #26C6DA;
+    --500: #00BCD4;
+    --600: #00ACC1;
+    --700: #0097A7;
+    --800: #00838F;
+    --900: #006064;
+    --A100: #84FFFF;
+    --A200: #18FFFF;
+    --A400: #00E5FF;
+    --A700: #00B8D4;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("media/fonts/Roboto-Regular.ttf");
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: Roboto;
+    background-color: var(--200);
+    margin: 0;
+}
+
+.flexcommon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: var(--600);
+}
+
+.invisible {
+    display: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login,
+.register,
+#buttons {
+    margin: 20px;
+}
+
+.login input,
+.register input,
+.login label,
+.register label {
+    margin-top: 5px;
+}
+
+.login input,
+.register input {
+    background-color: var(--600);
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.login input:last-of-type,
+.register input:last-of-type {
+    font-size: 16px;
+    padding: 10px;
+}
+
+p {
+    max-width: 70%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.fullheight {
+    min-height: 100%;
+}
+
+div.register div:last-of-type {
+    margin-bottom: 3px;
+}
+
+.msgsuccess {
+    background-color: lightgreen;
+    border: 2px solid green;
+    color: green;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.msgerror {
+    background-color: rgb(255, 160, 125);
+    border: 2px solid crimson;
+    color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+nav,
+footer {
+    background-color: var(--700);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: inherit;
+    background-color: var(--600);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h4 {
+    margin: 0;
+}
+
+footer a {
+    color: var(--A200);
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 5px;
+}
