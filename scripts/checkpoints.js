@@ -13,8 +13,6 @@ function getLocation() {
 }
 
 function success(position) {
-    console.log(position["coords"]["latitude"]);
-    console.log(position["coords"]["longitude"]);
     console.log(position);
     const xmlhttp = new XMLHttpRequest();
     xmlhttp.onload = function () {
@@ -28,8 +26,14 @@ function success(position) {
             xmlhttp1.open("GET", str1);
             xmlhttp1.send();
         } else {
-            document.getElementById("errors").textContent = `${position["coords"]["latitude"]}, ${position["coords"]["longitude"]}`;
-            console.log("niet");
+            let div = document.querySelector("div#errors");
+            p.classList.add("msgerror");
+            let msg = `Je bent niet op de locatie! volgens jouw telefoon ben je op: `;
+            msg += `${position["coords"]["latitude"]}, ${position["coords"]["longitude"]}`;
+            p.textContent = msg;
+            div.appendChild(p);
+            // eslint-disable-next-line no-restricted-globals
+            location.href = "#errors";
         }
         console.log(this.responseText);
     };
@@ -47,6 +51,7 @@ function error(er) {
 let checkpoint = 0;
 let route = 0;
 let id = 0;
+let p = document.createElement("p");
 
 function check(point, rout, id2) {
     checkpoint = point;

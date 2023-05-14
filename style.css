@@ -38,6 +38,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 60px;
 }
 
 button {
@@ -129,7 +130,8 @@ footer {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding: 15px 10px;
+    width: 100vw;
+    padding: 15px 0px;
 }
 
 nav a {
@@ -151,4 +153,17 @@ footer a {
 
 footer {
     margin-top: 5px;
+    position: fixed;
+    bottom: 0;
+}
+
+.check {
+    margin-top: 10px;
+}
+
+#errors {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

@@ -44,7 +44,7 @@ if ($user["checkpoint"] > 0) {
         <p>Bovenaan kunnen jullie zien hoeveel punten jullie al doorheen zijn, en hoeveel punten jullie nog moeten.</p>
         <p>Voor nu gaan we beginnen met het testen van de locatie! Klik de knop om te testen, en om door te gaan. Doet hij het niet, loop naar Sander.</p>
         <button class="check" onclick="check(<?= $user["checkpoint"] ?>, <?= $route ?>, <?= $user["id"] ?>);">Ga door</button>
-        <p id="errors" class="errormsg"></p>
+        <div id="errors"></div>
     </div>
     <?php require "footer.php" ?>
 </body>

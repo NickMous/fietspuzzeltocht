@@ -1,5 +1,7 @@
 <?php
 
+// Hier 'define' je de vragen voor 
+
 $vraag["kort"][1] = "schulenburg";
 $vraag["kort"][2] = "kameryck";
 $vraag["kort"][3] = "breeveld";

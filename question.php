@@ -1,6 +1,12 @@
 <?php
 
-$vraag["kort"][1] = "schulenburg";
+// Hierin worden alle vragen gesteld, en gerandomized teruggegeven voor hints :)
+
+$vraag["kort"][1][0] = "schulenburg";
+$vraag["kort"][1][0] = 
+$vraag["kort"][1][0] = 
+$vraag["kort"][1][0] = 
+$vraag["kort"][1][0] = 
 $vraag["kort"][2] = "kameryck";
 $vraag["kort"][3] = "breeveld";
 $vraag["kort"][4] = "harmelen herdenking";

@@ -20,4 +20,4 @@ $user = $usersearch->fetch();
 
 $sql = 'UPDATE userdata SET checkpoint=?, QUESTION=? WHERE id=?';
 $update = $pdo->prepare($sql);
-$update->execute([$user["checkpoint"] + 1,$_REQUEST["q"], $_REQUEST["id"]]);
+$update->execute([$user["checkpoint"] + 1, $_REQUEST["q"], $_REQUEST["id"]]);

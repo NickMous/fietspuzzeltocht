@@ -108,10 +108,10 @@ if (isset($_POST["register"])) {
             <p class="msgerror">Er is geen gebruiker gevonden</p>
         <?php endif; ?>
         <?php if ($msg == "falsepass") : ?>
-            <p class="errormsg">Het wachtwoord klopt niet</p>
+            <p class="msgerror">Het wachtwoord klopt niet</p>
         <?php endif; ?>
         <?php if ($msg == "userexists") : ?>
-            <p class="errormsg">Deze gebruiker bestaat al</p>
+            <p class="msgerror">Deze gebruiker bestaat al</p>
         <?php endif; ?>
     </div>
 </body>
