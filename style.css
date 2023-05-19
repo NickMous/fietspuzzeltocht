@@ -83,9 +83,10 @@ form {
 }
 
 .login input:last-of-type,
-.register input:last-of-type {
+.register input:last-of-type,
+.hint {
     font-size: 16px;
-    padding: 10px;
+    padding: 10px !important;
 }
 
 p {
@@ -166,4 +167,20 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.locationq {
+    font-weight: 600;
+}
+
+.martop {
+    margin-top: 40px !important;
+}
+
+img {
+    max-width: 80vw;
+}
+
+.comment {
+    width: 40vw;
 }

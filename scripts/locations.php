@@ -72,41 +72,35 @@ $point[1][0]["longmin"] = 4.8879139;
 $point[1][0]["latmin"] = 52.0830907;
 $point[1][0]["longmax"] = 4.8884325;
 
-// De Schulenburg
-$point[1][1]["latmax"] = 52.1150836;
-$point[1][1]["longmin"] = 4.8917156;
-$point[1][1]["latmin"] = 52.1143377;
-$point[1][1]["longmax"] = 4.8942855;
-
-// Kameryck
-$point[1][2]["latmax"] = 52.1305357;
-$point[1][2]["longmin"] = 4.9095707;
-$point[1][2]["latmin"] = 52.1298936;
-$point[1][2]["longmax"] = 4.9113420;
-
-// Breeveld
-$point[1][3]["latmax"] = 52.1060746;
-$point[1][3]["longmin"] = 4.9195143;
-$point[1][3]["latmin"] = 52.1015088;
-$point[1][3]["longmax"] = 4.9330779;
-
-// Spoorwegovergang Harmelen
-$point[1][4]["latmax"] = 52.1010478;
-$point[1][4]["longmin"] = 4.9392849;
-$point[1][4]["latmin"] = 52.1002296;
-$point[1][4]["longmax"] = 4.9417237;
+// Cattenbroekerplas Woerden
+$point[1][1]["latmax"] = 52.0809840;
+$point[1][1]["longmin"] = 4.9143739;
+$point[1][1]["latmin"] = 52.0780500;
+$point[1][1]["longmax"] = 4.9228617;
 
 // Duikclub Woerden
-$point[1][5]["latmax"] = 52.0840214;
-$point[1][5]["longmin"] = 4.9346282;
-$point[1][5]["latmin"] = 52.0829080;
-$point[1][5]["longmax"] = 4.9371277;
+$point[1][2]["latmax"] = 52.0840214;
+$point[1][2]["longmin"] = 4.9346282;
+$point[1][2]["latmin"] = 52.0829080;
+$point[1][2]["longmax"] = 4.9371277;
 
-// Cattenbroekerplas Woerden
-$point[1][6]["latmax"] = 52.0809840;
-$point[1][6]["longmin"] = 4.9143739;
-$point[1][6]["latmin"] = 52.0780500;
-$point[1][6]["longmax"] = 4.9228617;
+// Spoorwegovergang Harmelen
+$point[1][3]["latmax"] = 52.1010478;
+$point[1][3]["longmin"] = 4.9392849;
+$point[1][3]["latmin"] = 52.1002296;
+$point[1][3]["longmax"] = 4.9417237;
+
+// Kameryck
+$point[1][4]["latmax"] = 52.1305357;
+$point[1][4]["longmin"] = 4.9095707;
+$point[1][4]["latmin"] = 52.1298936;
+$point[1][4]["longmax"] = 4.9113420;
+
+// De Schulenburg
+$point[1][5]["latmax"] = 52.1150836;
+$point[1][5]["longmin"] = 4.8917156;
+$point[1][5]["latmin"] = 52.1143377;
+$point[1][5]["longmax"] = 4.8942855;
 
 // Excelsior Woerden
 $point[1][7]["latmax"] = 52.0833790;

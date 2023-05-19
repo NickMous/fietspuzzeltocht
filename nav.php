@@ -8,7 +8,7 @@ $user = $usersearch->fetch();
 if ($user["route"] == "lang") {
     $aantal = 11;
 } else {
-    $aantal = 8;
+    $aantal = 7;
 }
 ?>
 <nav>
