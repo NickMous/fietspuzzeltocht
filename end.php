@@ -15,9 +15,11 @@ if (!isset($_SESSION["id"])) {
     header("Location: index.php");
 }
 
-$sql = 'UPDATE userdata SET endtime=? WHERE id=?;';
-$update = $pdo->prepare($sql);
-$update->execute([time(), $_SESSION["id"]]);
+if ($user["endtime"] == null) {
+    $sql = 'UPDATE userdata SET endtime=? WHERE id=?;';
+    $update = $pdo->prepare($sql);
+    $update->execute([time(), $_SESSION["id"]]);
+}
 
 $sql = 'SELECT * FROM userdata WHERE id=?;';
 $usersearch = $pdo->prepare($sql);

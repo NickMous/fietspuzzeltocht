@@ -43,10 +43,10 @@ $point[0][6]["latmin"] = 52.1458370;
 $point[0][6]["longmax"] = 4.9245425;
 
 // Kameryck
-$point[0][7]["latmax"] = 52.1305357;
-$point[0][7]["longmin"] = 4.9095707;
-$point[0][7]["latmin"] = 52.1298936;
-$point[0][7]["longmax"] = 4.9113420;
+$point[0][7]["latmax"] = 52.130306;
+$point[0][7]["longmin"] = 4.900741;
+$point[0][7]["latmin"] = 52.128208;
+$point[0][7]["longmax"] = 4.908882;
 
 // De Schulenburg
 $point[0][8]["latmax"] = 52.1150836;
@@ -91,10 +91,10 @@ $point[1][3]["latmin"] = 52.1002296;
 $point[1][3]["longmax"] = 4.9417237;
 
 // Kameryck
-$point[1][4]["latmax"] = 52.1305357;
-$point[1][4]["longmin"] = 4.9095707;
-$point[1][4]["latmin"] = 52.1298936;
-$point[1][4]["longmax"] = 4.9113420;
+$point[1][4]["latmax"] = 52.130306;
+$point[1][4]["longmin"] = 4.900741;
+$point[1][4]["latmin"] = 52.128208;
+$point[1][4]["longmax"] = 4.908882;
 
 // De Schulenburg
 $point[1][5]["latmax"] = 52.1150836;
