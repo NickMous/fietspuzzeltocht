@@ -9,8 +9,8 @@ $point[0][0]["longmax"] = 4.8884325;
 // Snellerpoort
 $point[0][1]["latmax"] = 52.0894826;
 $point[0][1]["longmin"] = 4.9071172;
-$point[0][1]["latmin"] = 52.0883564;
-$point[0][1]["longmax"] = 4.9110121;
+$point[0][1]["latmin"] = 52.08902307013614;
+$point[0][1]["longmax"] = 4.912124833435315;
 
 // Vijverbos
 $point[0][2]["latmax"] = 52.1022703;
@@ -21,24 +21,24 @@ $point[0][2]["longmax"] = 4.9675493;
 // Kasteel de Haar
 $point[0][3]["latmax"] = 52.1225696;
 $point[0][3]["longmin"] = 4.9827253;
-$point[0][3]["latmin"] = 52.1206111;
-$point[0][3]["longmax"] = 4.9884008;
+$point[0][3]["latmin"] = 52.119084130891785;
+$point[0][3]["longmax"] = 4.990247233983838;
 
 // Klein Limburg
 $point[0][4]["latmax"] = 52.1326908;
 $point[0][4]["longmin"] = 4.9849984;
-$point[0][4]["latmin"] = 52.1311960;
-$point[0][4]["longmax"] = 4.9871328;
+$point[0][4]["latmin"] = 52.13045870989011;
+$point[0][4]["longmax"] = 4.9886978229502;
 
 // Kockengen
-$point[0][5]["latmax"] = 52.1531473;
-$point[0][5]["longmin"] = 4.9471065;
+$point[0][5]["latmax"] = 52.15401576247991;
+$point[0][5]["longmin"] = 4.938566310736337;
 $point[0][5]["latmin"] = 52.1459512;
 $point[0][5]["longmax"] = 4.9619331;
 
 // Grutto
-$point[0][6]["latmax"] = 52.1468777;
-$point[0][6]["longmin"] = 4.9209446;
+$point[0][6]["latmax"] = 52.1477154645099;
+$point[0][6]["longmin"] = 4.920750885996034;
 $point[0][6]["latmin"] = 52.1458370;
 $point[0][6]["longmax"] = 4.9245425;
 
@@ -49,22 +49,16 @@ $point[0][7]["latmin"] = 52.128208;
 $point[0][7]["longmax"] = 4.908882;
 
 // De Schulenburg
-$point[0][8]["latmax"] = 52.1150836;
-$point[0][8]["longmin"] = 4.8917156;
+$point[0][8]["latmax"] = 52.11560560955744;
+$point[0][8]["longmin"] = 4.89181102016156;
 $point[0][8]["latmin"] = 52.1143377;
 $point[0][8]["longmax"] = 4.8942855;
 
-// De Greft
-$point[0][9]["latmax"] = 52.0927646;
-$point[0][9]["longmin"] = 4.8609453;
-$point[0][9]["latmin"] = 52.0911018;
-$point[0][9]["longmax"] = 4.8635916;
-
 // Excelsior Woerden
-$point[0][10]["latmax"] = 52.0833790;
-$point[0][10]["longmin"] = 4.8879139;
-$point[0][10]["latmin"] = 52.0830907;
-$point[0][10]["longmax"] = 4.8884325;
+$point[0][9]["latmax"] = 52.0833790;
+$point[0][9]["longmin"] = 4.8879139;
+$point[0][9]["latmin"] = 52.0830907;
+$point[0][9]["longmax"] = 4.8884325;
 
 // Excelsior Woerden
 $point[1][0]["latmax"] = 52.0833790;
@@ -79,10 +73,10 @@ $point[1][1]["latmin"] = 52.0780500;
 $point[1][1]["longmax"] = 4.9228617;
 
 // Duikclub Woerden
-$point[1][2]["latmax"] = 52.0840214;
-$point[1][2]["longmin"] = 4.9346282;
-$point[1][2]["latmin"] = 52.0829080;
-$point[1][2]["longmax"] = 4.9371277;
+$point[1][2]["latmax"] = 52.083564;
+$point[1][2]["longmin"] = 4.931220;
+$point[1][2]["latmin"] = 52.082525;
+$point[1][2]["longmax"] = 4.938014;
 
 // Spoorwegovergang Harmelen
 $point[1][3]["latmax"] = 52.1010478;
@@ -97,16 +91,16 @@ $point[1][4]["latmin"] = 52.128208;
 $point[1][4]["longmax"] = 4.908882;
 
 // De Schulenburg
-$point[1][5]["latmax"] = 52.1150836;
-$point[1][5]["longmin"] = 4.8917156;
-$point[1][5]["latmin"] = 52.1143377;
-$point[1][5]["longmax"] = 4.8942855;
+$point[1][5]["latmax"] = 52.115811;
+$point[1][5]["longmin"] = 4.891671;
+$point[1][5]["latmin"] = 52.113756;
+$point[1][5]["longmax"] = 4.894655;
 
 // Excelsior Woerden
-$point[1][7]["latmax"] = 52.0833790;
-$point[1][7]["longmin"] = 4.8879139;
-$point[1][7]["latmin"] = 52.0830907;
-$point[1][7]["longmax"] = 4.8884325;
+$point[1][6]["latmax"] = 52.0833790;
+$point[1][6]["longmin"] = 4.8879139;
+$point[1][6]["latmin"] = 52.0830907;
+$point[1][6]["longmax"] = 4.8884325;
 
 $checkpoint = $_REQUEST["point"];
 $route = $_REQUEST["route"];

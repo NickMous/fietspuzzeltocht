@@ -61,6 +61,7 @@ if (!isset($_SESSION["id"])) {
         <h1>Locatie!</h1>
         <p class="location"><?= $vraag[$user["route"]][$user["checkpoint"]] ?></p>
         <button onclick="check(<?= $user["checkpoint"] ?>, <?= $route ?>, <?= $user["id"] ?>);">Check je locatie!</button>
+        <div id="errors"></div>
         <p id="errors" class="errormsg"></p>
     </div>
     <?php require "footer.php" ?>
