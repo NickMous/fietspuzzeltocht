@@ -20,11 +20,3 @@ function success(position) {
 function error(er) {
     console.log('Geolocation error!');
 }
-
-
-const xhttp = new XMLHttpRequest();
-xhttp.onload = function () {
-    document.getElementById("test").innerHTML = this.responseText;
-};
-xhttp.open("GET", "connect.php");
-xhttp.send();

@@ -75,10 +75,10 @@ if (isset($_POST["register"])) {
         </div>
         <div class="login invisible">
             <form method="post">
-                <label for="username" class="bold">Gebruikersnaam of groepsnaam</label>
-                <input type="text" name="username" id="username">
-                <label for="password" class="bold">Wachtwoord</label>
-                <input type="password" name="password" id="password">
+                <label for="username1" class="bold">Gebruikersnaam of groepsnaam</label>
+                <input type="text" name="username" id="username1">
+                <label for="password1" class="bold">Wachtwoord</label>
+                <input type="password" name="password" id="password1">
                 <input type="submit" value="Ga!" name="login" class="bold">
             </form>
         </div>
