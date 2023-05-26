@@ -54,9 +54,9 @@ $vraag["kort"][4][3][1] = "media/images/tussenstop.png";
 
 $vraag["kort"][5][0][0] = "schulenburch";
 $vraag["kort"][5][1][0] = "De Schulenburch";
-$vraag["kort"][5][1][1] = "schulenburg";
-$vraag["kort"][5][1][2] = "schulenburg";
-$vraag["kort"][5][1][3] = "schulenburg";
+$vraag["kort"][5][1][1] = "Milandhof";
+$vraag["kort"][5][1][2] = "Snellerpoort";
+$vraag["kort"][5][1][3] = "De Vaart";
 $vraag["kort"][5][2][0] = "En weer terug naar de eerste soort vragen. De volgende locatie is een locatie waar sommige van onze leden zich ook huis houden! Deze locatie zit naast een sportvereniging, 
 en deze locatie kan ook afgehuurd worden.Er zit zelfs nog een bibliotheek naast of erbij, dus kortom veelzijdig!";
 $vraag["kort"][5][2][1] = "In dit gebouw bevindt muziekvereniging Nieuw Leven Kamerik.";
@@ -91,7 +91,7 @@ $vraag["lang"][2][1][0] = "Het Vijverbos";
 $vraag["lang"][2][1][1] = "Landgoed Bredius";
 $vraag["lang"][2][1][2] = "Linschoterbos";
 $vraag["lang"][2][1][3] = "Bos over Holland";
-$vraag["lang"][2][2][0] = "De volgende locatie is een bos buiten Woerden. De naam van het bos is afgeleid van een watertype.";
+$vraag["lang"][2][2][0] = "De volgende locatie is een bos buiten Woerden. De naam van het bos is afgeleid van een watertype. Klein watertype... En op de hints klikken is niet erg hè, zeker bij deze niet!";
 $vraag["lang"][2][2][1] = "Het bos ligt nabij Harmelen";
 $vraag["lang"][2][2][2] = "Denk aan alle verschillende watertypes... Zee, meer, rivier, sloot, vijver...";
 $vraag["lang"][2][2][3] = "Het type water kan zich ook achter huizen bevinden.";
@@ -125,9 +125,9 @@ $vraag["lang"][4][3][1] = "media/audio/cp4.mp3";
 
 $vraag["lang"][5][0][0] = "kockengen";
 $vraag["lang"][5][1][0] = "Kockengen";
-$vraag["lang"][5][1][1] = "Kockengen";
-$vraag["lang"][5][1][2] = "Kockengen";
-$vraag["lang"][5][1][3] = "Kockengen";
+$vraag["lang"][5][1][1] = "Haarzuilens";
+$vraag["lang"][5][1][2] = "Maarssen";
+$vraag["lang"][5][1][3] = "Vleuten";
 $vraag["lang"][5][2][0] = "De volgende stop is weer een plaatsje wat zelf niet zo groot is, maar wel een groot stuk land beheert. In totaal wel bijna 3x de stad Woerden! Kijk om je heen op de borden ;)";
 $vraag["lang"][5][2][1] = "Bij de gebieden die erbij horen denk aan Gieltjesdorp, Portengen en Noordeinde";
 $vraag["lang"][5][2][2] = "Het dorp hoort bij de gemeente Breukelen, maar ligt wel nog een behoorlijk stuk van Breukelen af";
@@ -138,7 +138,7 @@ $vraag["lang"][6][0][1] = "grutto";
 $vraag["lang"][6][1][0] = "Park de Grutto";
 $vraag["lang"][6][1][1] = "Park de Zwaan";
 $vraag["lang"][6][1][2] = "de Koet";
-$vraag["lang"][6][1][3] = "Park de Grutto";
+$vraag["lang"][6][1][3] = "Duivenpark";
 $vraag["lang"][6][2][0] = "De volgende locatie is een park waar vaak vissers zitten. Het is een ideale plek om vogels te spotten, andere beestjes ook, maar het park is ook naar een vogel vernoemd. De vogel 
 is een strandlopertje, heeft lange pootjes en is ook een weidevogel. Helaas steeds minder in de weide te vinden door habitatverlies. In 2015 is de vogel ook gekozen als nationale vogelsoort van Nederland.";
 $vraag["lang"][6][2][1] = "De vogel staat op de rode lijst omdat hij steeds minder te vinden is, maar er zijn wel veel soorten van deze vogel in Nederland.";
@@ -159,9 +159,9 @@ $vraag["lang"][7][3][1] = "media/images/tussenstop.png";
 
 $vraag["lang"][8][0][0] = "schulenburch";
 $vraag["lang"][8][1][0] = "De Schulenburch";
-$vraag["lang"][8][1][1] = "schulenburg";
-$vraag["lang"][8][1][2] = "schulenburg";
-$vraag["lang"][8][1][3] = "schulenburg";
+$vraag["lang"][8][1][1] = "Milandhof";
+$vraag["lang"][8][1][2] = "Snellerpoort";
+$vraag["lang"][8][1][3] = "De Vaart";
 $vraag["lang"][8][2][0] = "En weer terug naar de eerste soort vragen. De volgende locatie is een locatie waar sommige van onze leden zich ook huis houden! Deze locatie zit naast een sportvereniging, 
 en deze locatie kan ook afgehuurd worden.Er zit zelfs nog een bibliotheek naast of erbij, dus kortom veelzijdig!";
 $vraag["lang"][8][2][1] = "In dit gebouw bevindt muziekvereniging Nieuw Leven Kamerik.";
