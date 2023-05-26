@@ -91,7 +91,8 @@ $vraag["lang"][2][1][0] = "Het Vijverbos";
 $vraag["lang"][2][1][1] = "Landgoed Bredius";
 $vraag["lang"][2][1][2] = "Linschoterbos";
 $vraag["lang"][2][1][3] = "Bos over Holland";
-$vraag["lang"][2][2][0] = "De volgende locatie is een bos buiten Woerden. De naam van het bos is afgeleid van een watertype. Klein watertype... En op de hints klikken is niet erg hè, zeker bij deze niet!";
+$vraag["lang"][2][2][0] = "De volgende locatie is een bos buiten Woerden. De naam van het bos is afgeleid van een watertype. Klein watertype... 
+En op de hints klikken is niet erg hè, zeker bij deze niet!";
 $vraag["lang"][2][2][1] = "Het bos ligt nabij Harmelen";
 $vraag["lang"][2][2][2] = "Denk aan alle verschillende watertypes... Zee, meer, rivier, sloot, vijver...";
 $vraag["lang"][2][2][3] = "Het type water kan zich ook achter huizen bevinden.";
@@ -128,7 +129,8 @@ $vraag["lang"][5][1][0] = "Kockengen";
 $vraag["lang"][5][1][1] = "Haarzuilens";
 $vraag["lang"][5][1][2] = "Maarssen";
 $vraag["lang"][5][1][3] = "Vleuten";
-$vraag["lang"][5][2][0] = "De volgende stop is weer een plaatsje wat zelf niet zo groot is, maar wel een groot stuk land beheert. In totaal wel bijna 3x de stad Woerden! Kijk om je heen op de borden ;)";
+$vraag["lang"][5][2][0] = "De volgende stop is weer een plaatsje wat zelf niet zo groot is, maar wel een groot stuk land beheert. 
+In totaal wel bijna 3x de stad Woerden! Kijk om je heen op de borden ;)";
 $vraag["lang"][5][2][1] = "Bij de gebieden die erbij horen denk aan Gieltjesdorp, Portengen en Noordeinde";
 $vraag["lang"][5][2][2] = "Het dorp hoort bij de gemeente Breukelen, maar ligt wel nog een behoorlijk stuk van Breukelen af";
 $vraag["lang"][5][2][3] = "Kijk om je heen, naar de borden. Welke dorpen zie je allemaal?";
@@ -139,8 +141,9 @@ $vraag["lang"][6][1][0] = "Park de Grutto";
 $vraag["lang"][6][1][1] = "Park de Zwaan";
 $vraag["lang"][6][1][2] = "de Koet";
 $vraag["lang"][6][1][3] = "Duivenpark";
-$vraag["lang"][6][2][0] = "De volgende locatie is een park waar vaak vissers zitten. Het is een ideale plek om vogels te spotten, andere beestjes ook, maar het park is ook naar een vogel vernoemd. De vogel 
-is een strandlopertje, heeft lange pootjes en is ook een weidevogel. Helaas steeds minder in de weide te vinden door habitatverlies. In 2015 is de vogel ook gekozen als nationale vogelsoort van Nederland.";
+$vraag["lang"][6][2][0] = "De volgende locatie is een park waar vaak vissers zitten. Het is een ideale plek om vogels te spotten, andere beestjes ook, maar het park is ook naar een vogel vernoemd. 
+De vogel is een strandlopertje, heeft lange pootjes en is ook een weidevogel. Helaas steeds minder in de weide te vinden door habitatverlies. In 2015 is de vogel ook gekozen als nationale 
+vogelsoort van Nederland.";
 $vraag["lang"][6][2][1] = "De vogel staat op de rode lijst omdat hij steeds minder te vinden is, maar er zijn wel veel soorten van deze vogel in Nederland.";
 $vraag["lang"][6][2][2] = "Van de vogelbescherming: `Meestgehoorde roep een luid en helder '(naam van de vogel)', waarbij de eerste lettergreep in toonhoogte stijgt en de tweede weer daalt.`";
 $vraag["lang"][6][2][3] = "Deze vogels leven het meeste in het noorden en het westen van Nederland";
