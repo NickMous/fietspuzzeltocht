@@ -100,23 +100,85 @@ $vraag["lang"][3][0][0] = "kasteel de haar";
 $vraag["lang"][3][0][1] = "de haar";
 $vraag["lang"][3][0][2] = "kasteel haar";
 $vraag["lang"][3][0][0] = "Kasteel de Haar";
-$vraag["lang"][3][0][0] = "Kasteel de Haar";
-$vraag["lang"][3][0][0] = "Kasteel de Haar";
-$vraag["lang"][3][0][0] = "Kasteel de Haar";
+$vraag["lang"][3][0][0] = "Kasteel Woerden";
+$vraag["lang"][3][0][0] = "Kasteel Gouda";
+$vraag["lang"][3][0][0] = "Kasteel Montfoort";
 $vraag["lang"][3][0][0] = "De volgende locatie is behoorlijk bekend in de buurt, maar ook door andere gedeeltes in Nederland door zijn uiterlijk en activiteiten. Het neemt een groot oppervlakte in 
 beslag.";
 $vraag["lang"][3][0][0] = "Het gebouw staat al een behoorlijke tijd op zijn plek, en komt uit een tijdperk waar sommige festivals die er plaatsvinden hun thema's vandaan halen.";
 $vraag["lang"][3][0][0] = "Het gebouw is deels vernoemd naar het dorpje wat erbij ligt.";
 $vraag["lang"][3][0][0] = "Velen van de festivals zijn verkleed met een thema in gedachte wat heel stoer en leuk is als kind zijnde. Om zowel als rollenspel of als 
-kleine poppetjes mee te spelen. Denk aan... de Efteling?";
+kleine poppetjes mee te spelen. Denk aan... Robin Hood?";
 
-$vraag["lang"][4] = "Klein Limburg";
-$vraag["lang"][5] = "Kockengen";
-$vraag["lang"][6] = "Park de Grutto";
-$vraag["lang"][7] = "Kameryck";
-$vraag["lang"][8] = "Schulenburg";
-$vraag["lang"][9] = "De Greft";
-$vraag["lang"][10] = "Excelsior";
+$vraag["lang"][4][0][0] = "klein limburg";
+$vraag["lang"][4][0][1] = "limburg";
+$vraag["lang"][4][1][0] = "Limburg?";
+$vraag["lang"][4][1][1] = "Zuid-Holland?";
+$vraag["lang"][4][1][2] = "Noord-Brabant?";
+$vraag["lang"][4][1][3] = "Zeeland?";
+$vraag["lang"][4][2][0] = "Tijd voor een geluidsfragment! Welke provincie komt deze band vandaan, en wat zou de volgende locatie zijn?";
+$vraag["lang"][4][2][1] = "De band is Rowwen Hèze";
+$vraag["lang"][4][2][2] = "Luister naar het dialect in het nummer";
+$vraag["lang"][4][2][3] = "In het zuiden van het land, waar de bergen bijna zouden bestaan...";
+$vraag["lang"][4][3][0] = "audio";
+$vraag["lang"][4][3][1] = "media/audio/cp4.mp3";
+
+$vraag["lang"][5][0][0] = "kockengen";
+$vraag["lang"][5][1][0] = "Kockengen";
+$vraag["lang"][5][1][1] = "Kockengen";
+$vraag["lang"][5][1][2] = "Kockengen";
+$vraag["lang"][5][1][3] = "Kockengen";
+$vraag["lang"][5][2][0] = "De volgende stop is weer een plaatsje wat zelf niet zo groot is, maar wel een groot stuk land beheert. In totaal wel bijna 3x de stad Woerden! Kijk om je heen op de borden ;)";
+$vraag["lang"][5][2][1] = "Bij de gebieden die erbij horen denk aan Gieltjesdorp, Portengen en Noordeinde";
+$vraag["lang"][5][2][2] = "Het dorp hoort bij de gemeente Breukelen, maar ligt wel nog een behoorlijk stuk van Breukelen af";
+$vraag["lang"][5][2][3] = "Kijk om je heen, naar de borden. Welke dorpen zie je allemaal?";
+
+$vraag["lang"][6][0][0] = "park de grutto";
+$vraag["lang"][6][0][1] = "grutto";
+$vraag["lang"][6][1][0] = "Park de Grutto";
+$vraag["lang"][6][1][1] = "Park de Zwaan";
+$vraag["lang"][6][1][2] = "de Koet";
+$vraag["lang"][6][1][3] = "Park de Grutto";
+$vraag["lang"][6][2][0] = "De volgende locatie is een park waar vaak vissers zitten. Het is een ideale plek om vogels te spotten, andere beestjes ook, maar het park is ook naar een vogel vernoemd. De vogel 
+is een strandlopertje, heeft lange pootjes en is ook een weidevogel. Helaas steeds minder in de weide te vinden door habitatverlies. In 2015 is de vogel ook gekozen als nationale vogelsoort van Nederland.";
+$vraag["lang"][6][2][1] = "De vogel staat op de rode lijst omdat hij steeds minder te vinden is, maar er zijn wel veel soorten van deze vogel in Nederland.";
+$vraag["lang"][6][2][2] = "Van de vogelbescherming: `Meestgehoorde roep een luid en helder '(naam van de vogel)', waarbij de eerste lettergreep in toonhoogte stijgt en de tweede weer daalt.`";
+$vraag["lang"][6][2][3] = "Deze vogels leven het meeste in het noorden en het westen van Nederland";
+
+$vraag["lang"][7][0][0] = "oortjespad";
+$vraag["lang"][7][1][0] = "Oortjespad";
+$vraag["lang"][7][1][1] = "De Boerinn";
+$vraag["lang"][7][1][2] = "Golfbaan Bentwoud";
+$vraag["lang"][7][1][3] = "BatensteinBuiten";
+$vraag["lang"][7][2][0] = "Rebustijd!";
+$vraag["lang"][7][2][1] = "Geen hints beschikbaar ;)";
+$vraag["lang"][7][2][2] = "Geen hints beschikbaar ;)";
+$vraag["lang"][7][2][3] = "Geen hints beschikbaar ;)";
+$vraag["lang"][7][3][0] = "img";
+$vraag["lang"][7][3][1] = "media/images/tussenstop.png";
+
+$vraag["lang"][8][0][0] = "schulenburch";
+$vraag["lang"][8][1][0] = "De Schulenburch";
+$vraag["lang"][8][1][1] = "schulenburg";
+$vraag["lang"][8][1][2] = "schulenburg";
+$vraag["lang"][8][1][3] = "schulenburg";
+$vraag["lang"][8][2][0] = "En weer terug naar de eerste soort vragen. De volgende locatie is een locatie waar sommige van onze leden zich ook huis houden! Deze locatie zit naast een sportvereniging, 
+en deze locatie kan ook afgehuurd worden.Er zit zelfs nog een bibliotheek naast of erbij, dus kortom veelzijdig!";
+$vraag["lang"][8][2][1] = "In dit gebouw bevindt muziekvereniging Nieuw Leven Kamerik.";
+$vraag["lang"][8][2][2] = "Op de weg van Kamerik naar Kanis is dit gebouw te vinden.";
+$vraag["lang"][8][2][3] = "Naast dit gebouw zit voetbalvereniging Kamerik.";
+
+$vraag["lang"][9][0][0] = "excelsior";
+$vraag["lang"][9][0][1] = "speeldozen";
+$vraag["lang"][9][0][2] = "clubhuis";
+$vraag["lang"][9][1][0] = "Excelsior";
+$vraag["lang"][9][1][1] = "Het clubhuis";
+$vraag["lang"][9][1][2] = "De Speeldozen";
+$vraag["lang"][9][1][3] = "Het clubhuis van Excelsior, de Speeldozen";
+$vraag["lang"][9][2][0] = "We zijn alweer bijna aan het einde van de route gekomen! We gaan naar de laatste stop en het eindpunt van de tocht, en dat is:";
+$vraag["lang"][9][2][1] = "Niet zo moeilijk denken hoor!";
+$vraag["lang"][9][2][2] = "Tja, waar zijn we vandaag gestart?";
+$vraag["lang"][9][2][3] = "Even die hersens laten kraken...";
 
 require "connect.php";
 $sql = 'SELECT * FROM userdata WHERE id=?;';
@@ -191,6 +253,9 @@ if (!isset($_SESSION["id"])) {
         <?php if (isset($vraag[$user["route"]][$user["checkpoint"]][3])) : ?>
             <?php if ($vraag[$user["route"]][$user["checkpoint"]][3][0] == "img") : ?>
                 <img src="<?= $vraag[$user["route"]][$user["checkpoint"]][3][1] ?>" alt="questionimg">
+            <?php endif; ?>
+            <?php if ($vraag[$user["route"]][$user["checkpoint"]][3][0] == "audio") : ?>
+                <audio src="<?= $vraag[$user["route"]][$user["checkpoint"]][3][1] ?>" alt="questionaudio">
             <?php endif; ?>
         <?php endif; ?>
         <div class="register">
